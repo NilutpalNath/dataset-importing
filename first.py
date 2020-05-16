@@ -1,3 +1,4 @@
+!mkdir ~/.kaggle
 !touch ~/.kaggle/kaggle.json
 api_token = {"username": "darkaxe", "key": "4061c17c6ceeea23cf38b713156e25c6"}
 
